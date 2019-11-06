@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Hastane Randevu Sistemi</string>
+    <string name="txttc">TC Kimlik Numarası</string>
+    <string name="txtsifre">Şifre</string>
+    <string name="btngiris">Giriş</string>
+    <string name="btnkayitOl">Kayıt Ol</string>
+
+    <string name="txtkayitad">Ad</string>
+    <string name="txtkayitsoyad">Soyad</string>
+    <string name="txtkayitTc">TC Kimlik Numarası</string>
+    <string name="txtkayitEmail">E mail</string>
+    <string name="txtkayitsifre">Şifre</string>
+    <string name="txtkayittel">Telefon</string>
+    <string name="btnkkayitOl">Kayıt Ol</string>
+
+    <string name="txtgüncelad">Ad</string>
+    <string name="txtgüncelsoyad">Soyad</string>
+    <string name="txtgüncelEmail">E mail</string>
+    <string name="txtgüncelsifre">Şifre</string>
+    <string name="txtgüncelTel">Telefon Numarası</string>
+    <string name="btngüncelle">Güncelle</string>
+
+    <string name="hosgeldiniz">HOŞGELDİNİZ</string>
+    <string name="btnhastaprofil">Kullanıcı Bilgileri</string>
+    <string name="btnhastarandevu">Randevu Geçmişi</string>
+    <string name="btnhastanerandevual">Randevu Al</string>
+
+    <string name="il">İL</string>
+    <string name="ilçe">İLÇE</string>
+    <string name="randevuhastane">HASTANE</string>
+    <string name="randevubölüm">BÖLÜM</string>
+    <string name="randevudoktor">DOKTOR</string>
+    <string name="randevusaat">SAAT</string>
+
+    <string name="adminosgeldiniz">HOŞGELDİNİZ</string>
+    <string name="adminhastane">HASTANE</string>
+    <string name="adminbölüm">BÖLÜM</string>
+    <string name="admindoktor">DOKTOR</string>
+    <string name="adminrandevu">RANDEVU İŞLERİ</string>
+
+
+    <string name="hastaneekle">HASTANE EKLE</string>
+    <string name="hastanesil">HASTANE SİL</string>
+    <string name="hastanegüncelle">HASTANE GÜNCELLE</string>
+    <string name="hastanebolumekle">HASTANEYE BOLUM EKLE</string>
+    <string name="hastaneyebolumekle"> EKLE</string>
+
+
+    <string name="doktoreekle">DOKTOR EKLE</string>
+    <string name="doktorsil">DOKTOR SİL</string>
+    <string name="doktorgüncelle">DOKTOR GÜNCELLE</string>
+
+    <string name="bölümekle">BÖLÜM EKLE</string>
+    <string name="bölümsil">BÖLÜM SİL</string>
+    <string name="bölümgüncelle">BÖLÜM GÜNCELLE</string>
+
+    <string name="hastaneeklead">HASTANE AD</string>
+    <string name="hastaneeklesehir">ŞEHİR</string>
+    <string name="hastaneekleadres">ADRES</string>
+    <string name="hastaneeklebolum">HASTANE BÖLÜM</string>
+    <string name="hastaneeklekaydet">KAYDET</string>
+
+    <string name="hastanesilad">SİLİNECEK HASTANE AD</string>
+    <string name="hastanesilsil">SİL</string>
+
+    <string name="hastanegüncellead">HASTANE AD</string>
+    <string name="hastanegüncellesehir">ŞEHİR</string>
+    <string name="hastanegüncelleadres">ADRES</string>
+    <string name="hastanegüncellebolum">HASTANE BÖLÜM</string>
+    <string name="hastanegüncellegüncelle">GÜNCELLE</string>
+
+    <string name="doktoreklead"> AD</string>
+    <string name="doktoreklesoyaad">SOYAD</string>
+    <string name="doktorekletc">TC</string>
+    <string name="doktorekleemail">E MAİL</string>
+    <string name="doktoreklesifre">ŞİFRE</string>
+    <string name="doktorekletel">TELEFON NUMARASI</string>
+    <string name="doktoreklebolum">BÖLÜM</string>
+    <string name="doktoreklehastane">HASTANE</string>
+    <string name="doktorekle">KAYDET</string>
+
+    <string name="doktorsilad"> SİLİNECEK DOKTOR AD</string>
+    <string name="doktorsilsil">SİL</string>
+
+    <string name="doktorgüncellead"> AD</string>
+    <string name="doktorgüncellesoyaad">SOYAD</string>
+    <string name="doktorgüncelletc">TC</string>
+    <string name="doktorgüncelleemail">E MAİL</string>
+    <string name="doktorgüncellesifre">ŞİFRE</string>
+    <string name="doktorgüncelletel">TELEFON NUMARASI</string>
+    <string name="doktorgüncellebolum">BÖLÜM</string>
+    <string name="doktorgüncellegüncel">GÜNCELLE</string>
+
+    <string name="doktorguncelle">DOKTOR</string>
+
+    <string name="bolumsilad">SİLİNECEK BÖLÜM ADI</string>
+    <string name="bolumsilsil">SİL</string>
+
+    <string name="bolumeklead"> BÖLÜM ADI</string>
+    <string name="bolumeklekaydet">KAYDET</string>
+
+    <string name="bolumgüncellead"> BÖLÜM ADI</string>
+    <string name="bolumgüncellegüncel">GÜNCELLE</string>
+
+    <string name="randevualmahastane"> HASTANE</string>
+    <string name="randevualmabolum">BÖLÜM</string>
+    <string name="randevualmadoktor">DOKTOR</string>
+    <string name="randevualmatarih">TARİH</string>
+    <string name="randevualmasaat">SAAT</string>
+    <string name="randevualmarandevual">RANDEVU AL</string>
+
+    <string name="doktoranasayfabilgi">BİLGİLERİM</string>
+    <string name="doktoranasayfarandevu">RANDEVULAR</string>
+
+
+
+</resources>
